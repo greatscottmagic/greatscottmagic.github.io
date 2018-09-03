@@ -1,4 +1,4 @@
-## Welcome to Great Scott Magic - Page under construction.  Go to [my facebook page](www.facebook.com/scottchamberlainmagic) in the meantime
+## Welcome to Great Scott Magic - Page under construction.  Go to www.facebook.com/scottchamberlainmagic in the meantime
 
 You can use the [editor on GitHub](https://github.com/greatscottmagic/greatscottmagic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
