@@ -1,7 +1,9 @@
 ## Welcome to Great Scott Magic - Page under construction.  Go to www.facebook.com/scottchamberlainmagic in the meantime
 
 ![GSM](greatscottmagic.github.io/business cards cleaner spade.png)
-[Link](https://www.youtube.com/watch?v=VLzeWVlbWoY)
+
+playlist:  https://www.youtube.com/watch?v=VLzeWVlbWoY
+
 
 You can use the [editor on GitHub](https://github.com/greatscottmagic/greatscottmagic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
