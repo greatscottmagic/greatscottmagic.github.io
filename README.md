@@ -1,6 +1,6 @@
 # Welcome to Great Scott Magic
-##Page under construction.  
-###Go to www.facebook.com/scottchamberlainmagic in the meantime
+## Page under construction.  
+### Go to www.facebook.com/scottchamberlainmagic in the meantime
 
 ![GSM](greatscottmagic.github.io/business cards cleaner spade.png)
 
