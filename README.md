@@ -2,7 +2,7 @@
 ## Page under construction.  
 ### Go to www.facebook.com/scottchamberlainmagic in the meantime
 
-![GSM](greatscottmagic.github.io/business cards cleaner spade.png)
+![GSM](greatscottmagic.github.io/business cards cleaner spade.png =250x250)
 
 [![Watch the video](greatscottmagic.github.io/video image.png)](https://www.youtube.com/watch?v=VLzeWVlbWoY)
 
