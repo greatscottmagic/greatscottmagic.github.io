@@ -2,7 +2,7 @@
 
 ![GSM](greatscottmagic.github.io/business cards cleaner spade.png)
 
-[![Watch the video](https://www.youtube.com/watch?v=VLzeWVlbWoY)
+[![Watch the video](greatscottmagic.github.io/video image.png)](https://www.youtube.com/watch?v=VLzeWVlbWoY)
 
 
 You can use the [editor on GitHub](https://github.com/greatscottmagic/greatscottmagic.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
