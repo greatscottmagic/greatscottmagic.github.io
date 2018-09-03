@@ -1,4 +1,4 @@
-# Welcome to Great Scott Magic
+# Great Scott Magic
 ## Page under construction.  
 ### Go to www.facebook.com/scottchamberlainmagic in the meantime
 
