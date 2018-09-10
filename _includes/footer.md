@@ -1,1 +1,1 @@
-This is my footer
+Great Scott Magic
