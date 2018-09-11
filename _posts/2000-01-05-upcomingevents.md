@@ -7,7 +7,7 @@ style: center
 
 ---
 
-<img src="img/cornbellys_1.png" alt="cornbelly">
+<img src="img/cornbellys_1.png" alt="cornbellys">
 ## Cornbelly's at Thanksgiving Point is having me out during their October celebrations this year.  Come out on October 8th for either a 5:30 show or a 6:45 show!
 
 
