@@ -4,7 +4,6 @@ bg: blue
 color: Black
 fa-icon: calendar
 style: center
-
 ---
 
 <img src="img/cornbellys_1.png" alt="cornbellys">
