@@ -4,12 +4,12 @@ bg: blue
 color: Black
 fa-icon: calendar
 style: center
+
 ---
 
 <img src="img/cornbellys_1.png" alt="cornbellys">
 
- ## Cornbelly's at Thanksgiving Point is having me out during their October celebrations this year.  Come out on October 8th for either a 5:30 show or a 6:45 show!
-
+## Cornbelly's at Thanksgiving Point is having me out during their October celebration this year.  Come out on October 8th for either a 5:30 show or a 6:45 show!
 
 <!--<div class="icontain"><iframe src="https://www.youtube.com/embed/IR7bafRqFm8" allowfullscreen></iframe></div>-->
 
