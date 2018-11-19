@@ -8,13 +8,29 @@ style: center
 ---
 
 <!--## Stay tuned for upcoming announcements :)-->
+# <b>December 31, 2018<b/>
+## <b>The University Place Mall has invited me out to perform for their "New Years at Noon" party for kids.<b/>  
+
+<img src="img/UP Logo.JPG" width="100%" height="100%"/>
+
+### This event will be from 10:00 AM to noon on December 31st.  I will be performing on their main stage at 10:30 am.
+
+Click here for [University Place Mall event details](https://www.universityplaceorem.com/events/new-years-at-noon/)!
+
+
+<hr>
+<br>
+<br>
+<br>
+# <b>January 7, 2019<b/>
 ## The Orem Public Library will have me perform once again this new year (3rd year in a row!).
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
-## Due to popular demand from previous shows, we will be planning <u>two</u> back-to-back shows that evening.  Come out and join me!
-## January 7, 2019 - 1st show will be at 5:30 pm, 2nd show at 7:00 pm.
-### Orem Library - 58 N State St, Orem, UT
+### Due to popular demand from previous shows, we will be planning <u>two</u> back-to-back shows that evening.  Come out and join me!
+### January 7, 2019 - 1st show will be at 5:30 pm, 2nd show at 7:00 pm.
+#### Orem Library - 58 N State St, Orem, UT
+
 
 <!--<div class="icontain"><iframe src="https://www.youtube.com/embed/IR7bafRqFm8" allowfullscreen></iframe></div>-->
 
