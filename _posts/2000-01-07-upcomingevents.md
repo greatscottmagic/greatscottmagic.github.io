@@ -13,7 +13,7 @@ style: center
 
 <img src="img/UP Logo.JPG" width="100%" height="100%"/>
 
-### This event will be from 10:00 AM to noon on December 31st.  I will be performing on their main stage at 10:30 am.
+### This event will be from 10:00 AM to noon on December 31.  I will be performing on their main stage at 10:30 am.
 
 Click here for [University Place Mall event details](https://www.universityplaceorem.com/events/new-years-at-noon/)!
 
