@@ -8,20 +8,7 @@ style: center
 ---
 
 <!--## Stay tuned for upcoming announcements :)-->
-# <b>December 31, 2018<b/>
-## <b>The University Place Mall has invited me out to perform for their "New Years at Noon" party for kids.<b/>  
 
-<img src="img/UP Logo.JPG" width="100%" height="100%"/>
-
-### This event will be from 10:00 AM to noon on December 31.  I will be performing on their main stage at 10:30 am.
-
-Click here for [University Place Mall event details](https://www.universityplaceorem.com/events/new-years-at-noon/)!
-
-
-<hr>
-<br>
-<br>
-<br>
 # <b>January 7, 2019<b/>
 ## The Orem Public Library will have me perform once again this new year (3rd year in a row!).
 
