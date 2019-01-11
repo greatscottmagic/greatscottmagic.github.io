@@ -7,16 +7,16 @@ style: center
 
 ---
 
-<!--## Stay tuned for upcoming announcements :)-->
+## Stay tuned for upcoming announcements :)
 
-# <b>January 7, 2019<b/>
+<!--# <b>January 7, 2019<b/>
 ## The Orem Public Library will have me perform once again this new year (3rd year in a row!).
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
 ### Due to popular demand from previous shows, we will be planning <u>two</u> back-to-back shows that evening.  Come out and join me!
 ### January 7, 2019 - 1st show will be at 5:30 pm, 2nd show at 7:00 pm.
-#### Orem Library - 58 N State St, Orem, UT
+#### Orem Library - 58 N State St, Orem, UT-->
 
 
 <!--<div class="icontain"><iframe src="https://www.youtube.com/embed/IR7bafRqFm8" allowfullscreen></iframe></div>-->
