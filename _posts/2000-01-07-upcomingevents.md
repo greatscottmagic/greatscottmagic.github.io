@@ -7,7 +7,20 @@ style: center
 
 ---
 
-## Stay tuned for upcoming announcements :)
+
+<img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
+# <b>June 3, 2019<b/>
+## The Wasatch County Library in Heber will have me perform @ 6:30 pm!
+#### Wasatch Library - 465 East 1200 South, Heber City, UT <br><br><br><br>
+
+
+
+<img src="img/EM city.PNG" width="75%" height="75%"/><br>
+# <b>July 8, 2019<b/>
+## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:30 pm!
+#### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT
+
+<!--## Stay tuned for upcoming announcements :)-->
 
 <!--# <b>January 7, 2019<b/>
 ## The Orem Public Library will have me perform once again this new year (3rd year in a row!).
