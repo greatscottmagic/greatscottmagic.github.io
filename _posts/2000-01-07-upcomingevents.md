@@ -6,6 +6,11 @@ fa-icon: calendar
 style: center
 
 ---
+<img src="img/water Festival.jpg" width="60%" height="60%"/><br>
+# <b>May 25, 2019<b/>
+## Central Utah Water Conservancy District will be celebrating their 6th annual Water Festival.
+## Look for me onstage at 11:30 and 1:30.  Admission is Free!
+#### 1426 East 750 North, Orem, UT <br><br><br><br>
 
 
 <img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
