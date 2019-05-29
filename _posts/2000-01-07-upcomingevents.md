@@ -6,11 +6,7 @@ fa-icon: calendar
 style: center
 
 ---
-<img src="img/water Festival.jpg" width="60%" height="60%"/><br>
-# <b>May 25, 2019<b/>
-## Central Utah Water Conservancy District will be celebrating their 6th annual Water Festival.
-## Look for me onstage at 11:30 and 1:30.  Admission is Free!
-#### 1426 East 750 North, Orem, UT <br><br><br><br>
+
 
 
 <img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
@@ -24,6 +20,12 @@ style: center
 # <b>July 18, 2019<b/>
 ## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:30 pm!
 #### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT
+
+<!--<img src="img/water Festival.jpg" width="60%" height="60%"/><br>
+# <b>May 25, 2019<b/>
+## Central Utah Water Conservancy District will be celebrating their 6th annual Water Festival.
+## Look for me onstage at 11:30 and 1:30.  Admission is Free!
+#### 1426 East 750 North, Orem, UT <br><br><br><br>-->
 
 <!--## Stay tuned for upcoming announcements :)-->
 
