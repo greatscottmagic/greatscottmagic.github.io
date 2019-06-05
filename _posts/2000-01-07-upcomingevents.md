@@ -7,19 +7,16 @@ style: center
 
 ---
 
-
-
-<img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
-# <b>June 3, 2019<b/>
-## The Wasatch County Library in Heber will have me perform @ 6:30 pm!
-#### Wasatch Library - 465 East 1200 South, Heber City, UT <br><br><br><br>
-
-
-
 <img src="img/EM city.png" width="75%" height="75%"/><br>
 # <b>July 18, 2019<b/>
 ## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:30 pm!
 #### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT
+
+<!--<img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
+# <b>June 3, 2019<b/>
+## The Wasatch County Library in Heber will have me perform @ 6:30 pm!
+#### Wasatch Library - 465 East 1200 South, Heber City, UT <br><br><br><br>-->
+
 
 <!--<img src="img/water Festival.jpg" width="60%" height="60%"/><br>
 # <b>May 25, 2019<b/>
