@@ -6,19 +6,19 @@ fa-icon: calendar
 style: center
 
 ---
-
-<img src="img/EM city.png" width="75%" height="75%"/><br>
 # <b>July 18, 2019<b/>
+<img src="img/EM city.png" width="75%" height="75%"/><br>
 ## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:30 pm!
 #### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT  <br><br><br><br>
 
-<img src="img/Flashback Brothers 2019.jpg" width="75%" height="75%"/><br>
 # <b>July 20, 2019<b/>
+<img src="img/Flashback Brothers 2019.jpg" width="75%" height="75%"/><br>
 ## The City of Eagle Mountain will have me perform @ 7:00 pm for their FREE Summer Concert at the Silverlake Amphitheater!
+## See more about this city event [here](https://eaglemountaincity.com/calendar/free-summer-concert-flashback-brothers/)!
 #### Eagle Mountain City - 7920 Silver Lake Pkwy, Eagle Mountain, UT<br><br><br><br>
 
-<img src="img/Midvale.jpg" width="75%" height="75%"/><br>
 # <b>August 3, 2019<b/>
+<img src="img/Midvale.jpg" width="75%" height="75%"/><br>
 ## Midvale City has invited me out to their 2019 Midvale Harvest Days.  Look for me onstage at 3:30!
 #### Midvale City Park -- [Midvale Harvest Days](http://www.midvaleharvestdays.com/)!
 
