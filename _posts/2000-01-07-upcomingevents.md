@@ -8,7 +8,7 @@ style: center
 ---
 # <b>July 18, 2019<b/>
 <img src="img/EM city.png" width="75%" height="75%"/><br>
-## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:30 pm!
+## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:00 pm!
 #### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT  <br><br><br><br>
 
 # <b>July 20, 2019<b/>
