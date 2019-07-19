@@ -6,10 +6,7 @@ fa-icon: calendar
 style: center
 
 ---
-# <b>July 18, 2019<b/>
-<img src="img/EM city.png" width="75%" height="75%"/><br>
-## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:00 pm!
-#### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT  <br><br><br><br>
+
 
 # <b>July 20, 2019<b/>
 <img src="img/Flashback Brothers 2019.jpg" width="75%" height="75%"/><br>
@@ -21,6 +18,11 @@ style: center
 <img src="img/Midvale.jpg" width="75%" height="75%"/><br>
 ## Midvale City has invited me out to their 2019 Midvale Harvest Days.  Look for me onstage at 3:30!
 #### Midvale City Park -- [Midvale Harvest Days](http://www.midvaleharvestdays.com/)!
+
+<!--# <b>July 18, 2019<b/>
+<img src="img/EM city.png" width="75%" height="75%"/><br>
+## The Eagle Mountain Library in Eagle Mountain will have me perform @ 4:00 pm!
+#### Eagle Mountain City Library - 1650 Stagecoach Run, Eagle Mountain, UT  <br><br><br><br>-->
 
 <!--<img src="img/wasatchlibrarylogo.gif" width="10%" height="10%"/> <img src="img/wasatchlibrary.gif" width="75%" height="75%"/><br>
 # <b>June 3, 2019<b/>
