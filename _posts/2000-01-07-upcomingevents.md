@@ -6,12 +6,12 @@ fa-icon: calendar
 style: center
 
 ---
+## Stay tuned for upcoming announcements :)
 
-
-# <b>August 3, 2019<b/>
+<!--# <b>August 3, 2019<b/>
 <img src="img/Midvale.jpg" width="75%" height="75%"/><br>
 ## Midvale City has invited me out to their 2019 Midvale Harvest Days.  Look for me onstage at 3:30!
-#### Midvale City Park -- [Midvale Harvest Days](http://www.midvaleharvestdays.com/)!
+#### Midvale City Park -- [Midvale Harvest Days](http://www.midvaleharvestdays.com/)!-->
 
 <!--# <b>July 20, 2019<b/>
 <img src="img/Flashback Brothers 2019.jpg" width="75%" height="75%"/><br>
@@ -36,7 +36,7 @@ style: center
 ## Look for me onstage at 11:30 and 1:30.  Admission is Free!
 #### 1426 East 750 North, Orem, UT <br><br><br><br>-->
 
-<!--## Stay tuned for upcoming announcements :)-->
+
 
 <!--# <b>January 7, 2019<b/>
 ## The Orem Public Library will have me perform once again this new year (3rd year in a row!).
