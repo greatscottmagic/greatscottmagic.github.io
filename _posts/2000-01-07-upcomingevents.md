@@ -6,7 +6,8 @@ fa-icon: calendar
 style: center
 
 ---
-## Stay tuned for upcoming announcements :)
+
+## Stay tuned for upcoming announcements
 
 <!--# <b>August 3, 2019<b/>
 <img src="img/Midvale.jpg" width="75%" height="75%"/><br>
