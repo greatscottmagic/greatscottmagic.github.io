@@ -9,13 +9,9 @@ style: center
 
 # <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
-## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 10am to 8pm (Yes, very long day).
+## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 10am to 8pm (Yes, very long day)!
 
-<<<<<<< HEAD
 <!--## Stay tuned for upcoming announcements :)-->
-=======
-<!--## Stay tuned for upcoming announcements-->
->>>>>>> f463ae5afee4665457631528c6c2cbe24c9f880a
 
 <!--# <b>August 3, 2019<b/>
 <img src="img/Midvale.jpg" width="75%" height="75%"/><br>
