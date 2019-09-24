@@ -7,9 +7,13 @@ style: center
 
 ---
 
-# <b>September 21, 2019<b/>
+# <b>October 14, 2019<b/>
+<img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
+## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!
+
+<!--# <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
-## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 9am to 8pm (Yes, very long day)!
+## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 9am to 8pm (Yes, very long day)!-->
 
 <!--## Stay tuned for upcoming announcements :)-->
 
