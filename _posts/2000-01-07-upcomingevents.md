@@ -12,7 +12,7 @@ style: center
 ## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!
 
 # <b>November 29th and 30th<b/>
-<img src="img/UCT_logoROUNDv_2016v2_x106.png" width="100%" height="100%"/><br>
+<img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
 ## Utah Children's Theatre has invited me out for 3 shows on Thanksgiving weekend!  Visit their site for tickets and more information: [UTCTheatre.org](https://uctheatre.org/products/magic-show-series-2019-20)
 
 <!--# <b>September 21, 2019<b/>
