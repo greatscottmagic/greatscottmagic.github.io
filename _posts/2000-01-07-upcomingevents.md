@@ -7,9 +7,9 @@ style: center
 
 ---
 
-# <b>October 14, 2019<b/>
+<!--# <b>October 14, 2019<b/>
 <img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
-## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!
+## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!-->
 
 <br><br><br>
 
