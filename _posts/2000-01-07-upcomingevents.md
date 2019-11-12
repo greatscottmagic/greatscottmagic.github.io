@@ -15,7 +15,19 @@ style: center
 
 # <b>November 29th and 30th<b/>
 <img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
-## Utah Children's Theatre has invited me out for 3 shows on Thanksgiving weekend!  Visit their site for tickets and more information: [UTCTheatre.org](https://uctheatre.org/products/magic-show-series-2019-20)
+## Utah Children's Theatre has invited me out for 3 shows on Thanksgiving weekend!  Visit their site for tickets and more information: [UTCTheatre.org](https://uctheatre.org/products/magic-show-series-2019-20)  
+<br><br><br>
+
+# <b>January 13, 2020<b/>
+## The Orem Public Library will have me perform once again this new year (4rd year in a row!).
+
+<img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
+
+### Due to popular demand from previous shows, we will be planning <u>two</u> back-to-back shows that evening.  Come out and join me!
+### January 13, 2020 - 1st show will be at 5:30 pm, 2nd show at 7:00 pm.
+#### Orem Library - 58 N State St, Orem, UT
+<br><br><br>
+
 
 <!--# <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
