@@ -31,7 +31,7 @@ style: center
 <br><br><br><br>
 
 # <b>January 13, 2020<b/>
-## The Orem Public Library will have me perform once again this new year (4rd year in a row!).
+## The Orem Public Library will have me perform once again this new year (4th year in a row!).
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
