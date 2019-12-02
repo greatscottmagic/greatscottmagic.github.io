@@ -13,11 +13,11 @@ style: center
 
 <br><br><br>
 
-# <b>November 29th and 30th<b/>
+<!--# <b>November 29th and 30th<b/>
 <img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
 ## Utah Children's Theatre has invited me out for 3 shows on Thanksgiving weekend!  Visit their site for tickets and more information: [UTCTheatre.org](https://uctheatre.org/products/magic-show-series-2019-20)
 
-<br><br><br><br>
+<br><br><br><br>-->
 
 # <b>December 31, 2019<b/>
 ## University Place Mall New Year's Celebration
