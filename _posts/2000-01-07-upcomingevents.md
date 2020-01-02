@@ -19,7 +19,7 @@ style: center
 
 <br><br><br><br>-->
 
-# <b>December 31, 2019<b/>
+<!--# <b>December 31, 2019<b/>
 ## University Place Mall New Year's Celebration
 
 <img src="img/university place logo.png" width="75%" height="75%"/>
@@ -29,7 +29,7 @@ style: center
 #### [University Place Mall](https://www.universityplaceorem.com/events/new-years-celebration/)
 
 <br><br><br><br>
-
+-->
 # <b>January 13, 2020<b/>
 ## The Orem Public Library will have me perform once again this new year (4th year in a row!).
 
