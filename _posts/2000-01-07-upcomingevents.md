@@ -11,7 +11,7 @@ style: center
 <img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
 ## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!-->
 
-<br><br><br>
+<!--<br><br><br>-->
 
 <!--# <b>November 29th and 30th<b/>
 <img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
