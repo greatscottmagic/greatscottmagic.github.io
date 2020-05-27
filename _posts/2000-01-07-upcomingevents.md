@@ -6,6 +6,10 @@ fa-icon: calendar
 style: center
 
 ---
+#  <b>June 20, 2020<b/>
+<img src="img/university place logo.png" width="40%" height="40%"/><br>
+## On June 20th, you can find me at University Place Mall performing 3 shows!  1st show at 9:30 am, 2nd at 10:45 am, and the 3rd show at 12:00 pm.  While this is a free event, space is extremely limited to allow for proper social distancing.  If you want to attend, you MUST get tickets at the [University Place Website](https://www.universityplaceorem.com/events/great-scott-magic-shows/)
+
 #  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
 ## I will be performing at FanX this year!  Time is at 4pm on Friday on the convention hall stage.  If you plan to attend FanX this year, please keep a look for my performance.  More information can be found on their [website](https://fanxsaltlake.com/)
