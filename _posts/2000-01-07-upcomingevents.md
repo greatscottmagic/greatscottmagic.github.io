@@ -6,11 +6,11 @@ fa-icon: calendar
 style: center
 
 ---
+#  STAY TUNED FOR UPCOMING EVENTS!
 
-
-#  <b>September 18, 2020<b/>
+<!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
-## I will be performing at FanX this year!  Time is at 4pm on Friday on the convention hall stage.  If you plan to attend FanX this year, please keep a look for my performance.  More information can be found on their [website](https://fanxsaltlake.com/)
+## I will be performing at FanX this year!  Time is at 4pm on Friday on the convention hall stage.  If you plan to attend FanX this year, please keep a look for my performance.  More information can be found on their [website](https://fanxsaltlake.com/)-->
 
 <!--#  <b>June 20, 2020<b/>
 <img src="img/university place logo.png" width="40%" height="40%"/><br>
