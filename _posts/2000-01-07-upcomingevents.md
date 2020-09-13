@@ -18,11 +18,11 @@ style: center
 ## The 1st show is at 9:30 am, 2nd at 10:45 am, and the 3rd show at 12:00 pm.
 ## While this is a free event, space is extremely limited to allow for proper social distancing.  If you want to attend, you MUST get tickets at the [University Place Mall Website](https://www.universityplaceorem.com/events/great-scott-magic-shows/) <br><br><br> -->
 
-<!--# <b>October 14, 2019<b/>
+# <b>October 5th and 19th, 2020<b/>
 <img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
-## Cornbellys at Thanksgiving Point will have me out again on October 14th for 2 shows for their Magic Monday Night.  The first show will be at 5:30 followed by a second show at 6:45.  Come out and enjoy the fun!-->
+## Cornbellys at Thanksgiving Point will have me out again on October 5th and 19th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!-->
 
-<!--<br><br><br>-->
+<br><br><br>
 
 <!--# <b>November 29th and 30th<b/>
 <img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
@@ -40,14 +40,12 @@ style: center
 #### [University Place Mall](https://www.universityplaceorem.com/events/new-years-celebration/)
 
 <br><br><br><br>
-
-# <b>January 13, 2020<b/>
-## The Orem Public Library will have me perform once again this new year (4th year in a row!).
+-->
+# <b>January 25, 2021<b/>
+## The Orem Public Library will have me perform once again this new year (5th year in a row!).
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
-### Due to popular demand from previous shows, we will be planning <u>two</u> back-to-back shows that evening.  Come out and join me!
-### January 13, 2020 - 1st show will be at 5:30 pm, 2nd show at 7:00 pm.
 #### Orem Library - 58 N State St, Orem, UT
 <br><br><br>
 
