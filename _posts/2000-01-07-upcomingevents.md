@@ -6,7 +6,7 @@ fa-icon: calendar
 style: center
 
 ---
-#  STAY TUNED FOR UPCOMING EVENTS!
+<!--#  STAY TUNED FOR UPCOMING EVENTS!-->
 
 <!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
@@ -49,10 +49,9 @@ style: center
 #### Orem Library - 58 N State St, Orem, UT
 <br><br><br>
 
--->
-<!--# <b>September 21, 2019<b/>
+<!-- # <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
-## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 9am to 8pm (Yes, very long day)!-->
+## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 9am to 8pm (Yes, very long day)! -->
 
 <!--## Stay tuned for upcoming announcements :)-->
 
