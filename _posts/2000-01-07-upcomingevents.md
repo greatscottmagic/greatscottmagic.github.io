@@ -1,5 +1,5 @@
 ---
-title: "Public Events"
+title: "Events"
 bg: blue
 color: Black
 fa-icon: calendar

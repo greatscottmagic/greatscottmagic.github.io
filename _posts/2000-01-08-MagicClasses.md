@@ -6,7 +6,8 @@ fa-icon: magic
 style: center
 
 ---
-<img src="img/university place mall promo.jpg" width="40%" height="40%"/><br>
+
+<img src="img/university place mall promo.jpg" width="80%" height="80%"/><br>
 
 # Scott Chamberlain Provides a fun and exciting magic camp for kids ages 7 - 12
 ## Find out more about this class by visiting the [utahschoolofmagic](https://www.utahschoolofmagic.com/) webpage!
