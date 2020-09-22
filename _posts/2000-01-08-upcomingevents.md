@@ -1,7 +1,7 @@
 ---
 title: "Events"
-bg: blue
-color: Black
+bg: Black
+color: blue
 fa-icon: calendar
 style: center
 
