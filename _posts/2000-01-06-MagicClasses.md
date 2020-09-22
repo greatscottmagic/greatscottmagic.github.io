@@ -1,5 +1,5 @@
 ---
-title: "Magic Class"
+title: "Learn Magic"
 bg: Black
 color: blue
 fa-icon: magic
