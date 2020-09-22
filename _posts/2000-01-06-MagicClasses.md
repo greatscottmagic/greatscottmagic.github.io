@@ -1,7 +1,7 @@
 ---
 title: "Learn Magic"
-bg: Black
-color: blue
+bg: blue
+color: Black
 fa-icon: magic
 style: center
 
