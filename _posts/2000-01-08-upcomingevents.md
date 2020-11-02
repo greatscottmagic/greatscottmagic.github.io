@@ -6,12 +6,12 @@ fa-icon: calendar
 style: center
 
 ---
-# <b>September - November 2020<b/>
+<!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
 ## Evermore Park in Pleasant Grove is presenting the "Spectre Faire of Avarice" this Halloween Season.  Featuring a traveling carnival with a pair of oddities and curiosities collectors, Mason and Shrugs.  I'm starring as Mason and my good friend Jason Carling of Jason Fun Magic will star as Shrugs!  Come out to Evermore and experience the fun!
 
-<br><br><br>
+<br><br><br>-->
 <!--#  STAY TUNED FOR UPCOMING EVENTS!-->
 
 <!--#  <b>September 18, 2020<b/>
@@ -24,12 +24,12 @@ style: center
 ## The 1st show is at 9:30 am, 2nd at 10:45 am, and the 3rd show at 12:00 pm.
 ## While this is a free event, space is extremely limited to allow for proper social distancing.  If you want to attend, you MUST get tickets at the [University Place Mall Website](https://www.universityplaceorem.com/events/great-scott-magic-shows/) <br><br><br> -->
 
-# <b>October 5th and 19th, 2020<b/>
+<!--# <b>October 5th and 19th, 2020<b/>
 <img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
-## Cornbellys at Thanksgiving Point will have me out again on October 5th and 19th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!-->
+## Cornbellys at Thanksgiving Point will have me out again on October 5th and 19th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!
 
 <br><br><br>
-
+-->
 <!--# <b>November 29th and 30th<b/>
 <img src="img/UCT_logoROUNDv_2016v2_x106.png" width="25%" height="25%"/><br>
 ## Utah Children's Theatre has invited me out for 3 shows on Thanksgiving weekend!  Visit their site for tickets and more information: [UTCTheatre.org](https://uctheatre.org/products/magic-show-series-2019-20)
