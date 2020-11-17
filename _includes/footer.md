@@ -1,1 +1,1 @@
-Great Scott Magic
+Scott Chamberlain Magic
