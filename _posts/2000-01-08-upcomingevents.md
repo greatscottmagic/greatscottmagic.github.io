@@ -9,10 +9,10 @@ style: center
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
-## Evermore Park in Pleasant Grove is presenting the "Spectre Faire of Avarice" this Halloween Season.  Featuring a traveling carnival with a pair of oddities and curiosities collectors, Mason and Shrugs.  I'm starring as Mason and my good friend Jason Carling of Jason Fun Magic will star as Shrugs!  Come out to Evermore and experience the fun!
+## Evermore Park in Pleasant Grove is presenting the "Spectre Faire of Avarice" this Halloween Season.  Featuring a traveling carnival with a pair of oddities and curiosities collectors, Mason and Shrugs.  I'm starring as Mason and my good friend Jason Carling of Jason Fun Magic will star as Shrugs!  Come out to Evermore and experience the fun!-->
 
 <br><br><br>-->
-<!--#  STAY TUNED FOR UPCOMING EVENTS!-->
+#  STAY TUNED FOR UPCOMING EVENTS!
 
 <!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
@@ -47,13 +47,13 @@ style: center
 
 <br><br><br><br>
 -->
-# <b>January 25, 2021<b/>
+<!--# <b>January 25, 2021<b/>
 ## The Orem Public Library will have me perform once again this new year (5th year in a row!).
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
 #### Orem Library - 58 N State St, Orem, UT
-<br><br><br>
+<br><br><br>-->
 
 <!-- # <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
