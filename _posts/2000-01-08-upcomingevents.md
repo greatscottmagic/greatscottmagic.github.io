@@ -11,7 +11,7 @@ style: center
 
 ## Evermore Park in Pleasant Grove is presenting the "Spectre Faire of Avarice" this Halloween Season.  Featuring a traveling carnival with a pair of oddities and curiosities collectors, Mason and Shrugs.  I'm starring as Mason and my good friend Jason Carling of Jason Fun Magic will star as Shrugs!  Come out to Evermore and experience the fun!-->
 
-<br><br><br>-->
+<br><br>
 #  STAY TUNED FOR UPCOMING EVENTS!
 
 <!--#  <b>September 18, 2020<b/>
