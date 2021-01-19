@@ -9,6 +9,8 @@ style: center
 
 <!--<img src="img/university place mall promo.jpg" width="75%" height="75%"/><br>-->
 
+
+## Utah School of Magic
 <div class="icontain"><iframe src="https://www.youtube.com/embed/wgBfHOwoMC8" allowfullscreen></iframe></div><br><br>
 
 
