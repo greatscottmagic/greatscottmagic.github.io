@@ -8,9 +8,9 @@ style: center
 ---
 
 <!--<img src="img/university place mall promo.jpg" width="75%" height="75%"/><br>-->
+<img src="img/Banner No Wand.png" width="40%" height = "40%" alt="Utah School of Magic">
 
-
-## Utah School of Magic
+<!--## Utah School of Magic-->
 <div class="icontain"><iframe src="https://www.youtube.com/embed/wgBfHOwoMC8" allowfullscreen></iframe></div><br><br>
 
 
