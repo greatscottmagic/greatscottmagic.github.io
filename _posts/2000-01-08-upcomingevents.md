@@ -6,6 +6,15 @@ fa-icon: calendar
 style: center
 
 ---
+
+# <b>June 8, 2021<b/>
+## The Orem Public Library will have me perform once again this new year!
+
+<img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
+
+#### Orem Library - 58 N State St, Orem, UT
+<br><br><br>
+
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
@@ -47,13 +56,7 @@ style: center
 
 <br><br><br><br>
 -->
-# <b>June 8, 2021<b/>
-## The Orem Public Library will have me perform once again this new year!
 
-<img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
-
-#### Orem Library - 58 N State St, Orem, UT
-<br><br><br>
 
 <!-- # <b>September 21, 2019<b/>
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
