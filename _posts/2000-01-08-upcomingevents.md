@@ -47,8 +47,8 @@ style: center
 
 <br><br><br><br>
 -->
-<!--# <b>January 25, 2021<b/>
-## The Orem Public Library will have me perform once again this new year (5th year in a row!).
+<b>June 8, 2021<b/>
+## The Orem Public Library will have me perform once again this new year!
 
 <img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
 
