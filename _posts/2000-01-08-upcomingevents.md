@@ -15,6 +15,22 @@ style: center
 #### Orem Library - 58 N State St, Orem, UT
 <br><br><br>
 
+# <b>June 12, 2021<b/>
+## Saratoga Splash Days @ 2:00 pm!
+
+<img src="img/saratogasplashdays.jpg" width="75%" height="75%"/>
+
+#### Neptune Park - 452 W 400 N, Saratoga Springs, UT
+<br><br><br
+
+# <b>July 9, 2021<b/>
+## Tooele City
+
+<img src="img/Tooele.jpg" width="75%" height="75%"/>
+
+#### Tooele City - Check back for details!
+<br><br><br
+
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
