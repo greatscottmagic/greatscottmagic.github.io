@@ -10,7 +10,7 @@ style: center
 # <b>June 8, 2021<b/>
 ## The Orem Public Library will have me perform once again this new year!
 
-<img src="img/Orem Library 2017-18.jpg" width="75%" height="75%"/>
+<img src="img/Orem Library 2017-18.jpg" width="60%" height="60%"/>
 
 #### Orem Library - 58 N State St, Orem, UT
 <br><br><br>
@@ -18,18 +18,18 @@ style: center
 # <b>June 12, 2021<b/>
 ## Saratoga Splash Days @ 2:00 pm!
 
-<img src="img/saratogasplashdays.jpg" width="75%" height="75%"/>
+<img src="img/saratogasplashdays.jpg" width="60%" height="60%"/>
 
 #### Neptune Park - 452 W 400 N, Saratoga Springs, UT
-<br><br><br
+<br><br><br>
 
 # <b>July 9, 2021<b/>
 ## Tooele City
 
-<img src="img/Tooele.jpg" width="75%" height="75%"/>
+<img src="img/Tooele.jpg" width="60%" height="60%"/>
 
 #### Tooele City - Check back for details!
-<br><br><br
+<br><br><br>
 
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
