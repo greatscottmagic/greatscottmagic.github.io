@@ -31,6 +31,14 @@ style: center
 #### Tooele City - Check back for details!
 <br><br><br>
 
+# <b>July 30, 2021<b/>
+## Wasatch County Library
+
+<img src="wasatchlibrary.gif"
+
+#### 465 E. 1200 S., Heber City, UT
+<br><br><br>
+
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
