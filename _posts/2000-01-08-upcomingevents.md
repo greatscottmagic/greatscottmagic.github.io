@@ -10,7 +10,7 @@ style: center
 # <b>June 25, 2021<b/>
 ## Syracuse City
 
-<img src="img/syracuse.jpg" width="60%" height="60%"/>
+<img src="img/syracuse.jpg" width="30%" height="30%"/>
 
 #### Syracuse City - Founders Park at 7:00pm!
 <br><br><br>
@@ -19,9 +19,17 @@ style: center
 # <b>July 9, 2021<b/>
 ## Tooele City
 
-<img src="img/Tooele.jpg" width="60%" height="60%"/>
+<img src="img/Tooele.jpg" width="30%" height="30%"/>
 
 #### Tooele City - Check back for details!
+<br><br><br>
+
+# <b>July 10, 2021<b/>
+## Clinton City
+
+<img src="img/clinton.jpg" width="30%" height="30%"/>
+
+#### Clinton City - Civic Center Park at 6:30pm!
 <br><br><br>
 
 # <b>July 30, 2021<b/>
