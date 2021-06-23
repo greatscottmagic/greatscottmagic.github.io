@@ -7,21 +7,14 @@ style: center
 
 ---
 
-# <b>June 8, 2021<b/>
-## The Orem Public Library will have me perform once again this new year!
+# <b>June 25, 2021<b/>
+## Syracuse City
 
-<img src="img/Orem Library 2017-18.jpg" width="60%" height="60%"/>
+<img src="img/syracuse.jpg" width="60%" height="60%"/>
 
-#### Orem Library - 58 N State St, Orem, UT
+#### Syracuse City - Founders Park at 7:00pm!
 <br><br><br>
 
-# <b>June 12, 2021<b/>
-## Saratoga Splash Days @ 2:00 pm!
-
-<img src="img/saratogasplashdays.jpg" width="60%" height="60%"/>
-
-#### Neptune Park - 452 W 400 N, Saratoga Springs, UT
-<br><br><br>
 
 # <b>July 9, 2021<b/>
 ## Tooele City
@@ -39,6 +32,22 @@ style: center
 #### 465 E. 1200 S., Heber City, UT
 <br><br><br>
 
+<!--# <b>June 8, 2021<b/>
+## The Orem Public Library will have me perform once again this new year!
+
+<img src="img/Orem Library 2017-18.jpg" width="60%" height="60%"/>
+
+#### Orem Library - 58 N State St, Orem, UT
+<br><br><br>
+
+# <b>June 12, 2021<b/>
+## Saratoga Splash Days @ 2:00 pm!
+
+<img src="img/saratogasplashdays.jpg" width="60%" height="60%"/>
+
+#### Neptune Park - 452 W 400 N, Saratoga Springs, UT
+<br><br><br>
+-->
 <!--# <b>September - November 2020<b/>
 <img src="img/Evermore 1.jpeg" width="60%" height="60%"/><br>
 
