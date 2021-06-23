@@ -35,7 +35,7 @@ style: center
 # <b>July 30, 2021<b/>
 ## Wasatch County Library
 
-<img src="img/wasatchlibrary.jpg" width="60%" height="60%"/>
+<img src="img/wasatchlibrary.jpg" width="30%" height="30%"/>
 
 #### 465 E. 1200 S., Heber City, UT
 <br><br><br>
