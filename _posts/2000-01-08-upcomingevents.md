@@ -7,13 +7,13 @@ style: center
 
 ---
 
-# <b>June 25, 2021<b/>
+<!--# <b>June 25, 2021<b/>
 ## Syracuse City
 
 <img src="img/syracuse.jpg" width="30%" height="30%"/>
 
 #### Syracuse City - Founders Park at 7:00pm!
-<br><br><br>
+<br><br><br>-->
 
 
 # <b>July 9, 2021<b/>
