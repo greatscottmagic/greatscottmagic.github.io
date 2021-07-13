@@ -40,6 +40,23 @@ style: center
 #### 465 E. 1200 S., Heber City, UT
 <br><br><br>
 
+# <b>July 24, 2021<b/>
+## Tremonton City
+
+<img src="img/tremonton.jpg" width = "30%" height="30%"/>
+
+#### 700 West 1000 North, Tremonton, UT
+<br><br><br>
+
+# <b>August 11-14, 2021<b/>
+## Weber County Fair
+
+<img src="img/weber.png" width = "30%" height="30%"/>
+
+#### 1000 North 1200 West, Ogden, UT
+<br><br><br>
+
+
 <!--# <b>June 8, 2021<b/>
 ## The Orem Public Library will have me perform once again this new year!
 
