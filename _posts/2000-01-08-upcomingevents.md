@@ -16,7 +16,7 @@ style: center
 <br><br><br>-->
 
 
-# <b>July 9, 2021<b/>
+<!--# <b>July 9, 2021<b/>
 ## Tooele City
 
 <img src="img/Tooele.jpg" width="30%" height="30%"/>
@@ -31,7 +31,7 @@ style: center
 
 #### Clinton City - Civic Center Park at 6:30pm!
 <br><br><br>
-
+-->
 # <b>July 30, 2021<b/>
 ## Wasatch County Library
 
