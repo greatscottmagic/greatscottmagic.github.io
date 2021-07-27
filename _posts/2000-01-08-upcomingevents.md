@@ -32,7 +32,7 @@ style: center
 #### Clinton City - Civic Center Park at 6:30pm!
 <br><br><br>
 -->
-# <b>July 30, 2021<b/>
+# <b>July 30, 2021 at 7pm<b/>
 ## Wasatch County Library
 
 <img src="img/wasatchlibrary.jpg" width="30%" height="30%"/>
@@ -40,11 +40,11 @@ style: center
 #### 465 E. 1200 S., Heber City, UT
 <br><br><br>
 
-# <b>July 24, 2021<b/>
+<!--# <b>July 24, 2021<b/>
 ## Tremonton City
 
 <img src="img/tremonton.jpg" width = "30%" height="30%"/>
-
+-->
 #### 700 West 1000 North, Tremonton, UT
 <br><br><br>
 
@@ -55,6 +55,26 @@ style: center
 
 #### 1000 North 1200 West, Ogden, UT
 <br><br><br>
+
+# <b>August 23, 2021<b/>
+## The Towne Hub
+
+<img src="img/towne hub.jpg" width = "30%" height="30%"/>
+
+### Tickets found online at:
+https://thetownehub.com/show/Details/25
+
+#### 120 W. Main St., American Fork, UT
+<br><br><br>
+
+# <b>September 18, 2021<b/>
+## Utah State Fair
+
+<img src="img/utahstatefair.jpg" width = "30%" height="30%"/>
+
+#### 155 1000 W, Salt Lake City, UT
+<br><br><br>
+
 
 
 <!--# <b>June 8, 2021<b/>
