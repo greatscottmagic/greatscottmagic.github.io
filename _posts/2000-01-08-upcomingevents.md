@@ -44,9 +44,9 @@ style: center
 ## Tremonton City
 
 <img src="img/tremonton.jpg" width = "30%" height="30%"/>
--->
+
 #### 700 West 1000 North, Tremonton, UT
-<br><br><br>
+<br><br><br>-->
 
 # <b>August 11-14, 2021<b/>
 ## Weber County Fair
@@ -62,8 +62,7 @@ style: center
 <img src="img/towne hub.jpg" width = "30%" height="30%"/>
 
 ### Tickets found online at:
-https://thetownehub.com/show/Details/25
-
+<a href="https://thetownehub.com/show/Details/25">The Towne Hub</a>
 #### 120 W. Main St., American Fork, UT
 <br><br><br>
 
