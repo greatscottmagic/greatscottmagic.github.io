@@ -7,46 +7,7 @@ style: center
 
 ---
 
-<!--# <b>June 25, 2021<b/>
-## Syracuse City
 
-<img src="img/syracuse.jpg" width="30%" height="30%"/>
-
-#### Syracuse City - Founders Park at 7:00pm!
-<br><br><br>-->
-
-
-<!--# <b>July 9, 2021<b/>
-## Tooele City
-
-<img src="img/Tooele.jpg" width="30%" height="30%"/>
-
-#### Tooele City - Check back for details!
-<br><br><br>
-
-# <b>July 10, 2021<b/>
-## Clinton City
-
-<img src="img/clinton.jpg" width="30%" height="30%"/>
-
-#### Clinton City - Civic Center Park at 6:30pm!
-<br><br><br>
--->
-# <b>July 30, 2021 at 7pm<b/>
-## Wasatch County Library
-
-<img src="img/wasatchlibrary.jpg" width="30%" height="30%"/>
-
-#### 465 E. 1200 S., Heber City, UT
-<br><br><br>
-
-<!--# <b>July 24, 2021<b/>
-## Tremonton City
-
-<img src="img/tremonton.jpg" width = "30%" height="30%"/>
-
-#### 700 West 1000 North, Tremonton, UT
-<br><br><br>-->
 
 # <b>August 11-14, 2021<b/>
 ## Weber County Fair
@@ -74,7 +35,46 @@ style: center
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
 
+<!--# <b>June 25, 2021<b/>
+## Syracuse City
 
+<img src="img/syracuse.jpg" width="30%" height="30%"/>
+
+#### Syracuse City - Founders Park at 7:00pm!
+<br><br><br>-->
+
+
+<!--# <b>July 9, 2021<b/>
+## Tooele City
+
+<img src="img/Tooele.jpg" width="30%" height="30%"/>
+
+#### Tooele City - Check back for details!
+<br><br><br>
+
+# <b>July 10, 2021<b/>
+## Clinton City
+
+<img src="img/clinton.jpg" width="30%" height="30%"/>
+
+#### Clinton City - Civic Center Park at 6:30pm!
+<br><br><br>
+-->
+<!--# <b>July 30, 2021 at 7pm<b/>
+## Wasatch County Library
+
+<img src="img/wasatchlibrary.jpg" width="30%" height="30%"/>
+
+#### 465 E. 1200 S., Heber City, UT
+<br><br><br>-->
+
+<!--# <b>July 24, 2021<b/>
+## Tremonton City
+
+<img src="img/tremonton.jpg" width = "30%" height="30%"/>
+
+#### 700 West 1000 North, Tremonton, UT
+<br><br><br>-->
 
 <!--# <b>June 8, 2021<b/>
 ## The Orem Public Library will have me perform once again this new year!
