@@ -7,16 +7,6 @@ style: center
 
 ---
 
-
-
-# <b>August 11-14, 2021<b/>
-## Weber County Fair
-
-<img src="img/weber.png" width = "30%" height="30%"/>
-
-#### 1000 North 1200 West, Ogden, UT
-<br><br><br>
-
 # <b>August 23, 2021<b/>
 ## The Towne Hub
 
@@ -35,6 +25,14 @@ style: center
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
 
+<!--# <b>August 11-14, 2021<b/>
+## Weber County Fair
+
+<img src="img/weber.png" width = "30%" height="30%"/>
+
+#### 1000 North 1200 West, Ogden, UT
+<br><br><br>
+-->
 <!--# <b>June 25, 2021<b/>
 ## Syracuse City
 
