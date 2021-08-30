@@ -20,7 +20,7 @@ style: center
 # <b>September 18, 2021 @ 3:00<b/>
 ## FanX Salt Lake
 
-<img src="img/fanx.png" width = "30%" height="30%"/>
+<img src="img/fanx.png" width = "50%" height="50%"/>
 
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
@@ -28,25 +28,25 @@ style: center
 # <b>September 18, 2021 @ 7:30<b/>
 ## Utah State Fair
 
-<img src="img/utahstatefair.jpg" width = "30%" height="30%"/>
+<img src="img/utahstatefair.jpg" width = "50%" height="50%"/>
 
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
 
 # <b>October 4th and 11th, 2021<b/>
-<img src="img/cornbellys_1.png" width="75%" height="75%"/><br>
+<img src="img/cornbellys_1.png" width="50%" height="50%"/><br>
 ## Cornbellys at Thanksgiving Point will have me out again on October 4th and 11th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!
 
 <br><br><br>
 
 # <b>October 9th @ 7pm<b>
-<img src="img/masonandshrugs.png" width="75%" height="75%"/><br>
+<img src="img/masonandshrugs.png" width="50%" height="50%"/><br>
 ## I'm teaming up with Jason Fun to present a brand new show called "Mason and Shrugs".  This will be held at The Towne Hub in American Fork.  Get your tickets [HERE](https://thetownehub.com/show/Details/21)
 
 <br><br><br>
 
 #  <b>October 13, 2021<b/>
-<img src="img/university place logo.png" width="40%" height="40%"/><br>
+<img src="img/university place logo.png" width="50%" height="50%"/><br>
 ##  Details to Come
 
  <br><br><br>
