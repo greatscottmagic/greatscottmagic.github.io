@@ -17,7 +17,7 @@ style: center
 #### 120 W. Main St., American Fork, UT
 <br><br><br>-->
 
-# <b>September 18, 2021 @ 3:00<b/>
+<!--# <b>September 18, 2021 @ 3:00<b/>
 ## FanX Salt Lake
 
 <img src="img/fanx.png" width = "50%" height="50%"/>
@@ -32,7 +32,7 @@ style: center
 
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
-
+-->
 # <b>October 4th and 11th, 2021<b/>
 <img src="img/cornbellys_1.png" width="50%" height="50%"/><br>
 ## Cornbellys at Thanksgiving Point will have me out again on October 4th and 11th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!
