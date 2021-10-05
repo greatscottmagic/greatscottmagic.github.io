@@ -47,7 +47,7 @@ style: center
 
 #  <b>October 13, 2021<b/>
 <img src="img/university place logo.png" width="50%" height="50%"/><br>
-##  Details to Come
+##  7:00 PM at the University Place Mall!  
 
  <br><br><br>
 
