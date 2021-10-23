@@ -33,7 +33,7 @@ style: center
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
 -->
-# <b>October 4th and 11th, 2021<b/>
+<!--# <b>October 4th and 11th, 2021<b/>
 <img src="img/cornbellys_1.png" width="50%" height="50%"/><br>
 ## Cornbellys at Thanksgiving Point will have me out again on October 4th and 11th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!
 
@@ -121,8 +121,8 @@ style: center
 
 ## Evermore Park in Pleasant Grove is presenting the "Spectre Faire of Avarice" this Halloween Season.  Featuring a traveling carnival with a pair of oddities and curiosities collectors, Mason and Shrugs.  I'm starring as Mason and my good friend Jason Carling of Jason Fun Magic will star as Shrugs!  Come out to Evermore and experience the fun!-->
 
-<!--<br><br>
-#  STAY TUNED FOR UPCOMING EVENTS!-->
+<br><br>
+#  STAY TUNED FOR UPCOMING EVENTS!
 
 <!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
