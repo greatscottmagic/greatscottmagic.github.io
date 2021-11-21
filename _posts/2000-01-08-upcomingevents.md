@@ -45,13 +45,14 @@ style: center
 ## I'm teaming up again with Jason Fun to present "Mason and Shrugs".  This will be held at The Towne Hub in American Fork.  Get your tickets [HERE](https://thetownehub.com/show/Details/45)
 
 <br><br><br>
+
 <!--
 #  <b>October 13, 2021<b/>
 <img src="img/university place logo.png" width="50%" height="50%"/><br>
 ##  7:00 PM at the University Place Mall!  
 
  <br><br><br>
-
+-->
 <!--# <b>August 11-14, 2021<b/>
 ## Weber County Fair
 
