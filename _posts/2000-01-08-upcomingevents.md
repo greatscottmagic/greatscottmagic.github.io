@@ -40,6 +40,7 @@ style: center
 <br><br><br>
 -->
 <b>December 18th @ 7pm<b>
+<br>
 <img src="img/Mason and Shrugs4.jpg" width="50%" height="50%"/><br>
 ## I'm teaming up again with Jason Fun to present "Mason and Shrugs".  This will be held at The Towne Hub in American Fork.  Get your tickets [HERE](https://thetownehub.com/show/Details/45)
 
