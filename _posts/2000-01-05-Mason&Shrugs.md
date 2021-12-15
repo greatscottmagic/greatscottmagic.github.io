@@ -1,7 +1,7 @@
 ---
 title: "Mason & Shrugs"
 bg: blue
-color: Black
+color: black
 fa-icon: magic
 style: center
 
