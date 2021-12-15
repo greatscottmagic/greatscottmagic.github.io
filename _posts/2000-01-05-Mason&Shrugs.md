@@ -11,7 +11,7 @@ style: center
 
 <img src="img/Mason and Shrugs4.jpg" width="50%" height="50%"/><br>
 
-## Mason and Shrugs is a duo act I perform I perform with my good friend, Jason Fun.  This is a show full of laughter and audience participation.  Mason & Shrugs take you on a journey which will have you re-thinking what magic really is!
+## MASON & SHRUGS is a duo act I perform with my good friend, Jason Fun.  This is a show full of laughter and audience participation.  Mason & SHRUGS take you on a journey which will have you re-thinking what magic really is!
 
 ## If you are interested in a quote for Mason and Shrugs, find more at [www.masonandshrugs.com](https://www.masonandshrugs.com/)<br><br><br>
 
