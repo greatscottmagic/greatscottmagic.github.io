@@ -6,7 +6,7 @@ fa-icon: calendar
 style: center
 
 ---
-
+## Stay tuned for upcoming announcements :)
 <!--# <b>August 23, 2021<b/>
 ## The Towne Hub
 
@@ -39,13 +39,13 @@ style: center
 
 <br><br><br>
 -->
-<b>December 18th @ 7pm<b>
+<!-- <b>December 18th @ 7pm<b>
 <br>
 <img src="img/Mason and Shrugs4.jpg" width="50%" height="50%"/><br>
 ## I'm teaming up again with Jason Fun to present "Mason and Shrugs".  This will be held at The Towne Hub in American Fork.  Get your tickets [HERE](https://thetownehub.com/show/Details/45)
 
 <br><br><br>
-
+-->
 <!--
 #  <b>October 13, 2021<b/>
 <img src="img/university place logo.png" width="50%" height="50%"/><br>
@@ -165,7 +165,7 @@ style: center
 <img src="img/shopfestutah.jpg" width="75%" height="75%"/><br>
 ## ShopFest Utah has been expanded to over 200 booth spaces and will be located at the festival field of Cory Wride Park in Eagle Mountain.  It will be the largest outdoor shopping festival in the State. I'll be at booth 173 performing and selling magic from 9am to 8pm (Yes, very long day)! -->
 
-<!--## Stay tuned for upcoming announcements :)-->
+
 
 <!--# <b>August 3, 2019<b/>
 <img src="img/Midvale.jpg" width="75%" height="75%"/><br>
