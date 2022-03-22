@@ -6,7 +6,28 @@ fa-icon: calendar
 style: center
 
 ---
-## Stay tuned for upcoming announcements :)
+<!--## Stay tuned for upcoming announcements :)-->
+
+# <b>March 26, 2022<b/>
+## Orem Family Fitness center
+<img src="img/orem ffc.png" width = "30%" height="30%"/>
+<br><br><br>
+
+# <b>May 2, 2022<b>
+## Tooele City
+<img src="img/tooele.jpg" width = "30%" height="30%"/>
+<br><br><br>
+
+# <b>June 9, 2022<b>
+## Saratoga Splash Days
+<img src="img/saratogasplashdays.jpg" width = "30%" height="30%"/>
+<br><br><br>
+
+# <b>June 10 & 11, 2022<b>
+## Summer Palooza
+<img src="img/summerpalooza.png" width = "30%" height="30%"/>
+<br>
+
 <!--# <b>August 23, 2021<b/>
 ## The Towne Hub
 
