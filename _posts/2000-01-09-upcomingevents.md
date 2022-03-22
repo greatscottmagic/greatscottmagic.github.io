@@ -8,23 +8,27 @@ style: center
 ---
 <!--## Stay tuned for upcoming announcements :)-->
 
-# <b>March 26, 2022<b/>
+# <b>March 26, 2022 @ 4pm<b/>
 ## Orem Family Fitness center
+#### 575 West Center St, Orem, UT
 <img src="img/orem ffc.png" width = "30%" height="30%"/>
 <br><br><br>
 
-# <b>May 2, 2022<b>
+# <b>May 2, 2022 @ 7pm<b>
 ## Tooele City
-<img src="img/tooele.jpg" width = "30%" height="30%"/>
+#### 438 W 400 N, Tooele, UT
+<img src="img/Tooele.jpg" width = "30%" height="30%"/>
 <br><br><br>
 
-# <b>June 9, 2022<b>
+# <b>June 9, 2022 @ 7pm<b>
 ## Saratoga Splash Days
+#### Neptune Park in Saratoga Springs, UT
 <img src="img/saratogasplashdays.jpg" width = "30%" height="30%"/>
 <br><br><br>
 
 # <b>June 10 & 11, 2022<b>
 ## Summer Palooza
+#### Details coming soon!
 <img src="img/summerpalooza.png" width = "30%" height="30%"/>
 <br>
 
