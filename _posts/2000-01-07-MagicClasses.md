@@ -14,7 +14,7 @@ style: center
 <div class="icontain"><iframe src="https://www.youtube.com/embed/wgBfHOwoMC8" allowfullscreen></iframe></div><br><br>
 
 
-# Scott Chamberlain Provides a fun and exciting magic camp for kids ages 7 - 12
+# Scott Chamberlain's Utah School of Magic Provides a fun and exciting magic camp for kids ages 7 - 12
 ## Find out more about this class by visiting the [utahschoolofmagic](http://www.utahschoolofmagic.com/) webpage!
 <!--#  <b>September 18, 2020<b/>
 <img src="img/fanx.png" width="40%" height="40%"/><br>
