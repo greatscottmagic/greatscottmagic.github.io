@@ -14,11 +14,11 @@ style: center
 <img src="img/orem ffc.png" width = "60%" height="60%"/>
 <br><br><br><br><br>-->
 
-# <b>May 2, 2022 @ 7pm<b>
+<!--# <b>May 2, 2022 @ 7pm<b>
 ## Tooele City
 #### 438 W 400 N, Tooele, UT
 <img src="img/Tooele.jpg" width = "60%" height="60%"/>
-<br><br><br><br><br>
+<br><br><br><br><br>-->
 
 # <b>May 14, 2022 @ 7pm<b>
 ## Mason and Shrugs at The Towne Hub in American Fork
