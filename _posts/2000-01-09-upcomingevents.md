@@ -20,12 +20,12 @@ style: center
 <img src="img/Tooele.jpg" width = "60%" height="60%"/>
 <br><br><br><br><br>-->
 
-# <b>May 14, 2022 @ 7pm<b>
+<!--# <b>May 14, 2022 @ 7pm<b>
 ## Mason and Shrugs at The Towne Hub in American Fork
 ### Find tickets online at www.thetownehub.com
 #### 120 W Main, American Fork, UT
 <img src="img/Mason and Shrugs4.jpg" width = "60%" height = "60%"/>
-<br><br><br><br><br>
+<br><br><br><br><br>-->
 
 # <b>June 9, 2022 @ 7pm<b>
 ## Saratoga Splash Days
@@ -37,6 +37,12 @@ style: center
 ## Summer Palooza
 #### Details coming soon!
 <img src="img/summerpalooza.png" width = "60%" height="60%"/>
+<br><br><br><br><br>
+
+# <b>June 18, 2022<b>
+## Nibley City
+#### Anhder Park Pavilion in Nibley, UT
+<img src="img/nibley.jpg" width = "60%" height="60%"/>
 <br><br><br><br><br>
 
 # <b>August 10-13, 2022<b>
