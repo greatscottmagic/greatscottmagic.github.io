@@ -27,7 +27,7 @@ style: center
 <img src="img/Mason and Shrugs4.jpg" width = "60%" height = "60%"/>
 <br><br><br><br><br>-->
 
-# <b>June 9, 2022 @ 7pm<b>
+<!--# <b>June 9, 2022 @ 7pm<b>
 ## Saratoga Splash Days
 #### Neptune Park in Saratoga Springs, UT
 <img src="img/saratogasplashdays.jpg" width = "60%" height="60%"/>
@@ -38,7 +38,7 @@ style: center
 #### Details coming soon!
 <img src="img/summerpalooza.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
-
+-->
 # <b>June 18, 2022<b>
 ## Nibley City
 #### Anhder Park Pavilion in Nibley, UT
