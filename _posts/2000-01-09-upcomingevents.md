@@ -39,11 +39,11 @@ style: center
 <img src="img/summerpalooza.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
 -->
-# <b>June 18, 2022<b>
+<!--# <b>June 18, 2022<b>
 ## Nibley City
 #### Anhder Park Pavilion in Nibley, UT
 <img src="img/nibley.jpg" width = "60%" height="60%"/>
-<br><br><br><br><br>
+<br><br><br><br><br>-->
 
 # <b>August 10-13, 2022<b>
 ## Weber County Fair
