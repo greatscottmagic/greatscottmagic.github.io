@@ -51,6 +51,12 @@ style: center
 <img src="img/santaquin.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
 
+# <b>August 6, 2022<b>
+## Highland City
+#### Heritage Park (10400 N Alpine Hwy, Highland)
+<img src="img/Highlandfling.png" width = "60%" height="60%"/>
+<br><br><br><br><br>
+
 # <b>August 10-13, 2022<b>
 ## Weber County Fair
 #### Weber County Fairgrounds in Ogden
