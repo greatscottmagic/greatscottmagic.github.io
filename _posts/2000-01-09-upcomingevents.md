@@ -39,11 +39,11 @@ style: center
 <img src="img/summerpalooza.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
 -->
-# <b>July 15, 2022<b>
+<!--# <b>July 15, 2022<b>
 ## Nibley City
 #### Anhder Park Pavilion in Nibley, UT
 <img src="img/nibley.jpg" width = "60%" height="60%"/>
-<br><br><br><br><br>
+<br><br><br><br><br>-->
 
 # <b>August 2, 2022<b>
 ## Santaquin City
