@@ -51,6 +51,12 @@ style: center
 <img src="img/santaquin.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
 
+# <b>August 4-5, 2022 at 4pm<b>
+## Millard County Fair
+#### Millard County Fairgrounds (187 Manzanita Ave, Delta, UT)
+<img src="img/millardcounty.png" width = "60%" height="60%"/>
+<br><br><br><br><br>
+
 # <b>August 6, 2022<b>
 ## Highland City
 #### Heritage Park (10400 N Alpine Hwy, Highland)
