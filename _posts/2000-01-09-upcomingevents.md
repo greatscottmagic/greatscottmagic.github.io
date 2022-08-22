@@ -63,11 +63,11 @@ style: center
 <img src="img/Highlandfling.png" width = "60%" height="60%"/>
 <br><br><br><br><br>
 -->
-# <b>August 10-13, 2022<b>
+<!--# <b>August 10-13, 2022<b>
 ## Weber County Fair
 #### Weber County Fairgrounds in Ogden
 <img src="img/weber.png" width = "60%" height="60%"/>
-
+-->
 <!--# <b>August 23, 2021<b/>
 ## The Towne Hub
 
@@ -94,12 +94,12 @@ style: center
 #### 155 1000 W, Salt Lake City, UT
 <br><br><br>
 -->
-<!--# <b>October 4th and 11th, 2021<b/>
+# <b>October 4th and 11th, 2021<b/>
 <img src="img/cornbellys_1.png" width="50%" height="50%"/><br>
-## Cornbellys at Thanksgiving Point will have me out again on October 4th and 11th for 2 shows for their Magic Monday Night. Come out and enjoy the fun!
+## Cornbellys at Thanksgiving Point will have me out again on October 3rd, 10th, and 24th for their Magic Monday Night. Come out and enjoy the fun!
 
 <br><br><br>
--->
+
 <!-- <b>December 18th @ 7pm<b>
 <br>
 <img src="img/Mason and Shrugs4.jpg" width="50%" height="50%"/><br>
